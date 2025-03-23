@@ -29,6 +29,7 @@ Ce dépôt a été conçu à l’attention des jurys d’admission de la platefo
   Document d’introduction aux catégories, aux foncteurs et à leurs applications en physique théorique.
 
 - **[Exploration de données et visualisation pour le Machine Learning](personal_projects/Machine_Learning_Project/)**  
---- Étude exploratoire axée sur le nettoyage, la mise en forme et la visualisation de données en vue d’une application en Machine Learning.
+Étude exploratoire axée sur le nettoyage, la mise en forme et la visualisation de données en vue d’une application en Machine Learning.
 
+--- 
 Merci pour votre lecture !
