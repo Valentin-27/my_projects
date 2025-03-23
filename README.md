@@ -15,7 +15,7 @@ Ce dépôt a été conçu à l’attention des jurys d’admission de la platefo
 - **[Étude numérique de la percolation sur site](academic_projects/numerical_percolation/)**  
   Simulation en Python d’un modèle de percolation sur sites, avec visualisations statistiques.
 
-- **[Bille rebondissante sur un plateau oscillant](academic_projects/bouncing_ball/)**  
+- **[Bille rebondissante sur un plateau oscillant](academic_projects/ball_on_a_vibrating_tray/)**  
   Étude des dynamiques chaotiques et des régimes de rebond/adhérence par intégration numérique.
 
 ---
